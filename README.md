@@ -1,1 +1,1 @@
-# python
+>notes on learning python
