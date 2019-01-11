@@ -19,5 +19,4 @@ print(tu2,type(tu2)) # (1,) <class 'tuple'>
 dic1 = {1:1}
 dic2 = {2:2,}
 print(dic1,type(dic1)) #{1: 1} <class 'dict'>　
-print(dic2,type(dic2))　#　{2: 2} <class 'dict'>
-#
+print(dic2,type(dic2)) #　{2: 2} <class 'dict'>
